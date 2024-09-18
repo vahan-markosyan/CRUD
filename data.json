@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 101,
+      "name": "Ashot",
+      "surname": "Grigoryan",
+      "age": 23,
+      "salary": 220000
+    },
+    {
+      "id": 102,
+      "name": "Karen",
+      "surname": "Poghosyan",
+      "age": 21,
+      "salary": 300000
+    },
+    {
+      "id": 103,
+      "name": "Diana",
+      "surname": "Tigranyan",
+      "age": 29,
+      "salary": 400000
+    },
+    {
+      "id": 104,
+      "name": "Anna",
+      "surname": "Sargsyan",
+      "age": 19,
+      "salary": 150000
+    },
+    {
+      "name": "asdas",
+      "surname": "asdasd",
+      "age": "12",
+      "salary": "10000000",
+      "id": "ffeb"
+    }
+  ]
+}
